@@ -5,7 +5,7 @@ size(1000,1000);
 public void draw()
 {
   
-  sierpinski(0, 900, 40);
+  sierpinski(0, 900, 900);
 }
 
 public void sierpinski(int x, int y, int len) 
